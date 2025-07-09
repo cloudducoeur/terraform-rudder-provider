@@ -1,0 +1,4 @@
+# Copiez ce fichier vers terraform.tfvars et ajustez les valeurs
+rudder_api_url = "https://your-rudder-server.com/rudder/api"
+rudder_api_token = "your-api-token-here"
+node_id = "root"
