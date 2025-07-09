@@ -5,8 +5,8 @@ import (
 
 	rudderclient "github.com/cloudducoeur/terraform-rudder-provider/client"
 
-	"github.com/hashicorp/terraform-plugin-framework/diag"
-	"github.com/hashicorp/terraform-plugin-sdk/helper/schema"
+	"github.com/hashicorp/terraform-plugin-sdk/v2/diag"
+	"github.com/hashicorp/terraform-plugin-sdk/v2/helper/schema"
 )
 
 type RudderClient struct {
