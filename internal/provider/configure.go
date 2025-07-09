@@ -2,7 +2,8 @@ package provider
 
 import (
 	"context"
-	rudderclient "terraform-provider-rudder/client" // openapi generated
+
+	rudderclient "github.com/cloudducoeur/terraform-rudder-provider/client"
 
 	"github.com/hashicorp/terraform-plugin-framework/diag"
 	"github.com/hashicorp/terraform-plugin-sdk/helper/schema"
