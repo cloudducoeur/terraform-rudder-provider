@@ -14,7 +14,7 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 	"testing"
-	openapiclient "github.com/GIT_USER_ID/GIT_REPO_ID"
+	openapiclient "github.com/cloudducoeur/terraform-rudder-provider/client"
 )
 
 func Test_rudderclient_NodesAPIService(t *testing.T) {

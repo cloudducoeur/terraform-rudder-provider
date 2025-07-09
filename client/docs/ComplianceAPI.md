@@ -33,7 +33,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/GIT_USER_ID/GIT_REPO_ID"
+	openapiclient "github.com/cloudducoeur/terraform-rudder-provider/client"
 )
 
 func main() {
@@ -105,7 +105,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/GIT_USER_ID/GIT_REPO_ID"
+	openapiclient "github.com/cloudducoeur/terraform-rudder-provider/client"
 )
 
 func main() {
@@ -166,7 +166,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/GIT_USER_ID/GIT_REPO_ID"
+	openapiclient "github.com/cloudducoeur/terraform-rudder-provider/client"
 )
 
 func main() {
@@ -232,7 +232,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/GIT_USER_ID/GIT_REPO_ID"
+	openapiclient "github.com/cloudducoeur/terraform-rudder-provider/client"
 )
 
 func main() {
@@ -306,7 +306,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/GIT_USER_ID/GIT_REPO_ID"
+	openapiclient "github.com/cloudducoeur/terraform-rudder-provider/client"
 )
 
 func main() {
@@ -380,7 +380,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/GIT_USER_ID/GIT_REPO_ID"
+	openapiclient "github.com/cloudducoeur/terraform-rudder-provider/client"
 )
 
 func main() {
@@ -454,7 +454,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/GIT_USER_ID/GIT_REPO_ID"
+	openapiclient "github.com/cloudducoeur/terraform-rudder-provider/client"
 )
 
 func main() {
@@ -522,7 +522,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/GIT_USER_ID/GIT_REPO_ID"
+	openapiclient "github.com/cloudducoeur/terraform-rudder-provider/client"
 )
 
 func main() {
@@ -596,7 +596,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/GIT_USER_ID/GIT_REPO_ID"
+	openapiclient "github.com/cloudducoeur/terraform-rudder-provider/client"
 )
 
 func main() {
